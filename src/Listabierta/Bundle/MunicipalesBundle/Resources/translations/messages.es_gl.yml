@@ -15,18 +15,18 @@ home:
     intro_p4: Es muy importante que antes de empezar el proceso de registro de la candidatura, veas este tutorial del proceso completo.
     intro_p5: ¿Cómo funciona la herramienta de listas abiertas municipales?
     
-    step_1: Regístrate y registra el municipio de la candidatura
-    step_2: Establece las condiciones de la candidatura ciudadana
-    step_3: Establece los plazos de votación
-    step_4: Reserva una dirección de internet
-    step_5: Alta de candidatos y candidatas
-    step_6: Validación de candidatos y candidatas
-    step_7: Votaciones
-    step_8: Verificación del voto y resultados
-    step_9: Presentación de las listas electas
+    step_1: Rexístrate e rexistra o municipio da candidatura
+    step_2: Establece as condicións da candidatura cidadá
+    step_3: Establece os prazos de votación
+    step_4: Reserva unha dirección de internet
+    step_5: Alta de candidatas y candidatos
+    step_6: Validación de candidatas y candidatos
+    step_7: Votacións
+    step_8: Verificación do voto e resultados
+    step_9: Presentación das listas electas
     
-    start_here: Iniciar el registro
-    welcome: "&iexcl;Bienvenidos al sitio!"
+    start_here: Iniciar o rexistro
+    welcome: "&iexcl;Benvidos ao sitio!"
 
 header:
     languages:
@@ -36,58 +36,55 @@ header:
         es_es: Español
         
 candidacy:
-    html_title: Municipales 2015 - Alta de candidatura ciudadana
-    h1_title: Regístrate y registra el municipio de la candidatura
-    verify_msg: Confirma el registro y las condiciones enviando un SMS con la palabra ACEPTO al número nº %sms_inbound_number% que proporcionaste en el paso anterior, después haz clic en CONTINUAR
-    verify_extra: El coste del mensaje es de unos 10 céntimos de euro (o gratis, depende del coste de tu operadora) no es un sms premium y listabierta.org no cobra por este servicio.
+    html_title: Municipaís 2015 - Alta de candidatura cidadá
+    h1_title: Rexístrate e rexistra eo municipio da candidatura
+    verify_msg: Confirma o rexistro e as condicións enviando un SMS coa palabra ACEPTO ao número n.º %sms_inbound_number% que proporcionaches no paso anterior, despois fai clic en CONTINUAR
+    verify_extra: O custo da mensaxe é duns 10 céntimos de euro (ou gratis, depende do custo da túa operadora) non é un sms premium e listabierta.org non cobra por este servizo .
     
     step_conditions:
-      html_title: Municipales 2015 - Condiciones de alta de candidatura ciudadana
-      h1_title: Regístrate y registra el municipio de la candidatura
+      html_title: Municipaís 2015 - Condicións de alta da candidatura cidadá
+      h1_title: Rexístrate e rexistra o municipio da candidatura
     
-      p1_title: Al iniciar el registro aceptas las siguientes condiciones
-      p1_content: Que formas parte un colectivo (partido político, coalición de partidos o agrupación de electores) que desea presentarse a los comicios municipales que se celebrarán el 24 de mayo de 2.015 y que para ello tienen la intención de registrarse en plazo y forma en la correspondiente junta electoral provincial.
-      p2_content: Que has sido designado por dicho colectivo para efectuar el alta del municipio en la presente herramienta de voto de listas abiertas, no existiendo conflicto interno en cuanto a su uso.
-      p3_content: Que dicho colectivo comprende y acepta las limitaciones del uso de la herramienta en cuanto al sistema de voto y su verificación.
-      p4_content: Que dicho colectivo comprende y acepta que el proceso de verificación y aceptación de las candidaturas lo efectúa el administrador o administradora de la votación.
-      p5_content: Que mediante el acto de registro estás dando tu consentimiento expreso al tratamiento de los datos personales que aportas, según lo dispuesto en el artículo 6 de la LOPD y que podrás ejercer tus derechos en los términos dispuestos por el artículo 5 de la LOPD.
-      p6_content: Que la información que aportas durante el registro es cierta, tanto los datos personales como las condiciones de la votación, de la candidatura y su programa. <b>Ten en cuenta que no podrás modificarla más adelante, ya que los datos de registro se utilizan para identificarte como usuario único</b>.
-      accept: ACEPTAS ESTAS CONDICIONES
+      p1_title:  Ao iniciar o rexistro aceptas as seguintes condicións 
+      p1_content:  Que formas parte un colectivo (partido político, coalición de partidos ou agrupación de electores) que desexa presentarse aos comicios municipais que se celebrarán o 24 de maio de 2.015 e que para iso teñen a intención de rexistrarse en prazo e forma na correspondente xunta electoral provincial. 
+      p2_content:  Que fuches designado polo devandito colectivo para efectuar a alta do municipio na presente ferramenta de voto de listas abertas, non existindo conflito interno en canto ao seu uso. 
+      p3_content: Que o devandito colectivo comprende e acepta as limitacións do uso da ferramenta en canto ao sistema de voto e a súa verificación. 
+      p4_content:  Que o devandito colectivo comprende e acepta que o proceso de verificación e aceptación das candidaturas o efectúa o administrador ou administradora da votación. 
+      p5_content:  Que mediante o acto de rexistro estás a dar o teu consentimento expreso ao tratamento dos datos persoais que achegas, segundo o disposto no artigo 6 da LOPD e que poderás exercer os teus dereitos nos termos dispostos polo artigo 5 da LOPD. 
+      p6_content:  Que a información que achegas durante o rexistro é certa, tanto os datos persoais coma as condicións da votación, da candidatura e o seu programa. < b>Ten en conta que non poderás modificala máis adiante, xa que os datos de rexistro se utilizan para identificarte como usuario único</b>. 
+      accept: ACEPTAS ESTAS CONDICIÓNS
       continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
       
     step1:
-        name: Nombre 
-        lastname: Apellidos
+        name: Nome 
+        lastname: Apelidos
         dni: DNI
         username: Usuario
-        password: Contraseña
+        password: Contrasinal
         email: Email
-        province: Provincia del municipio
-        town: Nombre del municipio
+        province: Provincia do municipio
+        town: Nome do municipio
         phone: Número de móvil
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        explanation_dni: ¿Por que necesitamos tu DNI y tu número de móvil? Para evitar el spam y el registro múltiple de candidaturas. Para poder continuar con el registro necesitamos que proporciones ambos datos de forma correcta.
-        explanation: Explicación
-        dni_info: Sin introducir guión entre número y letra
-        username_info: Anota tu nombre de usuario
-        password_info: Anota tu contraseña
+        explanation_dni:  Por que necesitamos o teu DNI e o teu número de móbil? Para evitar o spam e o rexistro múltiple de candidaturas. Para poder continuar co rexistro necesitamos que proporcións ambos os dous datos de forma correcta.         explanation: Explicación
+        dni_info:  Sen introducir guión entre número e letra 
+        username_info: Anota o teu nome de usuario
+        password_info: Anota a tua contrasinal
         email_info: Recibirás un email de confirmación
-        phone_info: Deberás confirmarlo con un mensaje en el siguiente paso, si introduces un número incorrecto, no podrás continuar
-        warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que otra persona tendrá que dar de alta esta candidatura ciudadana. Si tienes dudas del proceso, vuelve a ver el video <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admite candidaturas “de prueba”.
+        phone_info:  Deberás confirmalo cunha mensaxe no seguinte paso, se introduces un número incorrecto, non poderás continuar         warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que otra persona tendrá que dar de alta esta candidatura ciudadana. Si tienes dudas del proceso, vuelve a ver el video <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admite candidaturas “de prueba”.
 
     step_verify:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Verifica tu número de móvil
+        html_title: Municipaís 2015 - Alta de candidatura cidadá
+        h1_title: Verifica o teu número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         
     step2:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Establece las condiciones de la candidatura ciudadana
+        html_title: Municipaís 2015 - Alta de candidatura cidadá
+        h1_title: Establece as condicións da candidatura cidadá
         
-        p1: "Sube en formato PDF aquellas condiciones que deban aceptar los candidatos o candidatas (una, algunas, todas o ninguna) para presentarse en la candidatura ciudadana. Por ejemplo: El programa de la candidatura, las condiciones legales y la veracidad de la información aportada, el mandato revocatorio y participativo, el código ético, la aceptación del censo y el sistema de voto, etc.  Si no subes ninguna condición, te recomendamos que busques algún método alternativo para verificar que el candidato o candidata va a cumplirlas antes de su inclusión en las listas."
-  
+        p1:  "Sobe en formato PDF aquelas condicións que deban aceptar os candidatos ou candidatas (unha, algunhas, todas ou ningunha) para presentarse na candidatura cidadá. Por exemplo: O programa da candidatura, as condicións legais e a veracidade da información achegada, o mandato revogatorio e participativo, o código ético, a aceptación do censo e o sistema de voto, etc. Se non sobes ningunha condición, recomendámoste que busques algún método alternativo para verificar que o candidato ou candidata vai cumprilas antes da súa inclusión nas listas. "   
         program: El programa de la candidatura
         legal_conditions: Condiciones legales y veracidad de la información aportada de candidatos y candidatas
         recall_term: El mandato revocatorio del candidato
