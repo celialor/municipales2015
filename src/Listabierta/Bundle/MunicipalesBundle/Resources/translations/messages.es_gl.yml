@@ -77,74 +77,73 @@ candidacy:
         warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que otra persona tendrá que dar de alta esta candidatura ciudadana. Si tienes dudas del proceso, vuelve a ver el video <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admite candidaturas “de prueba”.
 
     step_verify:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Verifica tu número de móvil
+        html_title: Municipaís 2015 - Alta da candidatura cidadá
+        h1_title: Verifica o teu número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         
     step2:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Establece las condiciones de la candidatura ciudadana
+        html_title: Municipaís 2015 - Alta da candidatura cidadá
+        h1_title: Establece as condicións da candidatura cidadá
         
-        p1: "Sube en formato PDF aquellas condiciones que deban aceptar los candidatos o candidatas (una, algunas, todas o ninguna) para presentarse en la candidatura ciudadana. Por ejemplo: El programa de la candidatura, las condiciones legales y la veracidad de la información aportada, el mandato revocatorio y participativo, el código ético, la aceptación del censo y el sistema de voto, etc.  Si no subes ninguna condición, te recomendamos que busques algún método alternativo para verificar que el candidato o candidata va a cumplirlas antes de su inclusión en las listas."
+        p1: "Sobe en formato PDF aquelas condicións que deban aceptar os candidatos ou candidatas (unha, algunhas, todas ou ningunha) para presentarse na candidatura cidadá. Por exemplo: O programa da candidatura, as condicións legais e a veracidade da información achegada, o mandato revogatorio e participativo, o código ético, a aceptación do censo e o sistema de voto, etc. Se non sobes ningunha condición, recomendámoste que busques algún método alternativo para verificar que a candidata ou candidato vai cumprilas antes da súa inclusión nas listas. "
   
-        program: El programa de la candidatura
-        legal_conditions: Condiciones legales y veracidad de la información aportada de candidatos y candidatas
-        recall_term: El mandato revocatorio del candidato
-        participatory_term: El código ético de la candidatura
-        voter_conditions: Las condiciones para poder participar como votante (censo y aceptación del sistema de votación)
-        technical_constrains: Las limitaciones técnicas y legales del sistema de voto.
+        program: O programa da candidatura
+        legal_conditions: Condicións legaís e veracidade da información aportada das candidatas e candidatos
+        recall_term: O mandato revocatorio do candidato
+        participatory_term: O código ético da candidatura
+        voter_conditions: As condicións para poder participar como votante (censo e aceptación do sistema de votación)
+        technical_constrains: As limitacións técnicas e legais do sistema de voto.
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        example: Ejemplo
+        example: Exemplo
                       
     step3:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Establece los plazos de presentación de candidaturas
+        html_title: Municipaís 2015 - Alta da candidatura cidadá
+        h1_title: Establece os prazos de presentación de candidaturas
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        explanation_date: Plazo de presentación de candidaturas <br/>(mínimo 2 días, se recomiendan 15 días) 
+        explanation_date: Prazo de presentación das candidaturas <br/>(mínimo 2 días, recoméndanse 15 días) 
         from_label: DE
-        to_label: HASTA  
+        to_label: ATA  
         previous: Anterior
               
     step4:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Reserva una dirección de internet
+        html_title: Municipaíss 2015 - Alta da candidatura cidadá
+        h1_title: Reserva unha dirección de internet
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
         choose_address: Elige tu dirección de internet
-        warning: Si en el espacio en blanco escribes por ejemplo: FuenteovejunaParticipa, las direcciones asociadas a tu candidatura serán del tipo: http://municipales2015.listabierta.org/FuenteovejunaParticipa/...
+        warning: Se no espazo en branco escribes por exemplo: FuenteovejunaParticipa, as direccións asociadas á túa candidatura serán do tipo: http://municipales2015.listabierta.org/FuenteovejunaParticipa/...
         
     step5:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Alta de candidatos y candidatas
+        html_title: Municipaíss 2015 - Alta da candidatura cidadá
+        h1_title: Alta de candidatas e candidatos
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        explanation_link: Proporciona este enlace público a los candidatos y candidatas para que se den de alta rellenando el formulario que les aparecerá
+        explanation_link:Proporciona este enlace público aos candidatos e candidatas para que se dean de alta enchendo o formulario que lles aparecerá
         continue: <i class="ace-icon fa fa-check bigger-110"></i> Continuar
         register_link: Enlace de Alta
-        send_link: Te hemos enviado una copia de este enlace a tu email
-        next_step_explanation: En el siguiente paso podrás validar a los candidatos y candidatas que se den de alta utilizando el enlace anterior.
+        send_link: Enviámosche unha copia deste enlace ao teu email
+        next_step_explanation:No seguinte paso poderás validar os candidatos e candidatas que se dean de alta utilizando o enlace anterior.
 
     step6:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Validación de candidatos y candidatas  
+        html_title: Municipaís 2015 - Alta de candidatura cidadá
+        h1_title: Validación de candidatas e candidatos  
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        no_candidates: En estos momentos no existe ningun candidato inscrito para validar
-        name_header: Nombre y Apellidos
+        no_candidates: Nestes momentos non existe ningún candidato inscrito para validar
+        name_header: Nome e Apelidos
         motivational_text_header: Texto motivacional
-        town_activities_explanation_header: Explicación actividades municipales
+        town_activities_explanation_header: Explicación actividades municipaís
         additional_info_header: Biografía
         photo_header: Foto
         action_header: Acción
         
     step7:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Inicio y fin de las Votaciones
+        html_title: Municipaís 2015 - Alta de candidatura ciudadá
+        h1_title: Inicio e fin das Votacións
         days: Días
-        explanation: Introduce el número de días naturales que permanecerá activa la votación de candidatos desde el inicio de la votación (se recomiendan al menos 14 días, mínimo dos días).
-        init_vote_explanation: Haz clic en el siguiente botón para iniciar la votación
+        explanation: Nestes momentos non existe ningún candidato inscrito para validar
         warning_explanation: ATENCIÓN !! Una vez iniciada la votación ya NO SE PODRÁN AÑADIR más candidatos o candidatas. Se proporcionará un enlace que habilitará el registro a los votantes y emitir el voto.
         start_candidacy: Iniciar votación
         public_link: Este es el enlace a la votación que puedes hacer público
