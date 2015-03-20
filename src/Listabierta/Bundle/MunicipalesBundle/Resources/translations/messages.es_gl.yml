@@ -238,97 +238,97 @@ town:
         previous: Anterior          
 
     step7_confirmation:
-        header: Elige candidatos
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 7
-        h1_title: Seleccion previa de candidatos
+        header: Elixe candidatos
+        html_title: Municipais 2015 - Vota na candidatura cidadá - Paso 7
+        h1_title: Seleccion previa dos candidatos
         continue: Ver candidatos seleccionados <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Revisar criterios
-        filter_selection: Con tu selección actual de filtros se te mostrarán
-        advice: Te aconsejamos un máximo de 10
+        filter_selection: Coa túa selección actual de filtros mostraránseche
+        advice: Aconsellámosche un máximo de 10
              
     step7:
-        header: Elige candidatos
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 7
-        h1_title: Elige candidatos
+        header: Elixe candidatos
+        html_title: Municipais 2015 - Vota na candidatura cidadá - Paso 7
+        h1_title: Elixe candidatos
         continue: VOTA <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
      
     step8:
-        header: Asigna puntuaciones
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 8
-        h1_title: Asigna puntuaciones
+        header: Asigna puntuacións
+        html_title: Municipais 2015 - Vota na candidatura cidadá - Paso 8
+        h1_title: Asigna puntuacións
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior 
         
     step9:
         header: Fin
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 9
+        html_title: Municipais 2015 - Vota na candidatura cidadá - Paso 9
         h1_title: Fin
         previous: Anterior
                        
 candidate:
-    html_title: Municipales 2015 - Alta de candidato
-    h1_title: Regístrate como candidato o candidata
+    html_title: Municipais 2015 - Alta do candidato
+    h1_title: Rexístrate como candidata ou candidato
 
     step1:
-        header: Regístrate como candidato o candidata
-        p1: "Bienvenido o bienvenida a el alta de candidatos para la candidatura ciudadana <b>%address%</b> al municipio de <b>%town%</b>.<br/>Por favor rellena tu candidatura con exactitud, si introduces datos erróneos, no podrás modificarlos más adelante."
-        p2: El plazo de presentación de candidaturas establecido es desde %fromdate% hasta %todate%
-        name: Nombre 
-        lastname: Apellidos
+        header: Rexístrate como candidata ou candidato
+        p1:"Bienvenido ou benvida á alta de candidatos para a candidatura cidadá < b>%address%</b > ao municipio de < b>%town%</b>.<br/>Por favor rechea a túa candidatura con exactitude, se introduces datos erróneos, non poderás modificalos máis adiante. "
+        p2: O prazo de presentación de candidaturas establecido é dende %fromdate% ata %todate%
+        name: Nome 
+        lastname: Apelidos
         dni: DNI
         email: Email
         phone: Número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que no podrás dar de alta tu candidatura. Si tienes dudas del proceso, vuelve a ver el video <a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre las organizaciones a la ciudadanía (Versión Corta)">aquí</a>. El sistema no admite candidaturas “de prueba”.
+        warning_text: <b>Atención</b>: é imprescindible que introduzas os datos de rexistro de forma correcta, incluíndo o teu número de móbil, un erro nos datos de rexistro implica que non poderás dar de alta a túa candidatura. Se tes dúbidas do proceso, volve ver o video < a href="https://www.youtube.com/watch?v=v-ysTeRE9lc" title="listAbierta.org - Abre as organizacións á cidadanía (Versión Corta)">aquí</a >. O sistema non admite candidaturas "de proba".
 
-    verify_msg: Confirma el registro de candidato enviando un SMS con la palabra ACEPTO al número nº %sms_inbound_number% que proporcionaste en el paso anterior, después haz clic en CONTINUAR
-    verify_extra: El coste del mensaje es de unos 10 céntimos de euro (o gratis, depende del coste de tu operadora) no es un sms premium y listabierta.org no cobra por este servicio.
+    verify_msg: Confirma o rexistro de candidato enviando un SMS coa palabra ACEPTO ao número n.º %sms_inbound_number% que proporcionaches no paso anterior, despois fai clic en CONTINUAR
+    verify_extra:O custo da mensaxe é duns 10 céntimos de euro (ou gratis, depende do custo da túa operadora) non é un sms premium e listabierta.org non cobra por este servizo.
     
     step_verify:
-        html_title: Municipales 2015 - Alta de candidato
-        h1_title: Verifica tu número de móvil
+        html_title: Municipais 2015 - Alta do candidato
+        h1_title: Verifica o teu número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         
     step2:
         header: Firma documentos
-        p1: Antes de subir tu perfil, debes descargarte, firmar (digital o manualmente) y volver a enviar los documentos siguientes para confirmar tu aceptación de las condiciones de la candidatura ciudadana
+        p1: Antes de subir o teu perfil, debes descargarte, asinar (dixital ou manualmente) e volver enviar os documentos seguintes para confirmar a túa aceptación das condicións da candidatura cidadá
     
-        program: Aceptación del programa de la candidatura
-        legal_conditions: Cumplimiento de las condiciones legales y veracidad de la información aportada
-        recall_term: Aceptación del mandato revocatorio del candidato   
-        participatory_term: Aceptación del mandato participativo del candidato
-        voter_conditions: Aceptación del censo disponible y del sistema de votación
-        technical_constrains: Aceptación de las limitaciones técnicas y legales del sistema de voto.
+        program:Aceptación do programa da candidatura
+        legal_conditions: Cumprimento das condicións legais e veracidade da información achegada
+        recall_term: Aceptación do mandato revogatorio do candidato  
+        participatory_term: Aceptación do mandato participativo do candidato
+        voter_conditions: Aceptación do censo dispoñible e do sistema de votación
+        technical_constrains: Aceptación das limitacións técnicas e legais do sistema de voto.
     
         download: Descargar
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         
     step3:      
-        header: Proporciona tu nivel académico
-        academic_level_title: ¿Cuál es tu nivel académico?
-        languages_title: ¿Eres capáz de mantener una conversación telefónica en alguno de estos idiomas? (puedes seleccionar ninguno o varios)
+        header: Proporciona o teu nivel académico
+        academic_level_title: Cal é o teu nivel académico?
+         languages_title: Es capáz de manter unha conversación telefónica nalgún destes idiomas? (podes seleccionar ningún ou varios)
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
     
     step4:      
-        header: Proporciona tu experiencia laboral
-        job_experience_title: ¿Cuál es el campo de tu experiencia laboral? (Seleccione hasta tres opciones)
+        header: Proporciona a túa experiencia laboral
+        job_experience_title: Cal é o campo da túa experiencia laboral? (Seleccione ata tres opcións)
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
           
     step5:      
-        header: Proporciona el desempeño municipal
-        header_title: ¿Has tenido alguna experiencia que pueda estar relacionada con las actividades que desarrolla un Ayuntamiento?
-        town_activities_title: ¿Has tenido alguna experiencia relacionada con el desempeño municipal?  (Seleccione hasta tres opciones siempre que tu actividad incluya la coordinación o gestión de un grupo superior a las 10 personas, posteriormente tendrás que explicarlo)
+        header: Proporciona o desempeño municipal
+        header_title:Tiveches algunha experiencia que poida estar relacionada coas actividades que desenvolve un Concello?
+        town_activities_title: Tiveches algunha experiencia relacionada co desempeño municipal? (Seleccione ata tres opcións sempre que a túa actividade inclúa a coordinación ou xestión dun grupo superior ás 10 persoas, posteriormente terás que explicalo)
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         
     step6:      
-        header: Establece prioridades de gobierno
-        govern_priorities_title: ¿En qué actividades crees que debería centrarse con prioridad el gobierno municipal ? (seleccione hasta tres opciones)
+        header: Establece prioridades de goberno
+        govern_priorities_title: En que actividades cres que debería centrarse con prioridade o goberno municipal ? (seleccione ata tres opcións)
         previous: Anterior
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         
@@ -349,8 +349,8 @@ candidate:
 login:
     html_title: Login
     username: Usuario
-    password: Contraseña
+    password: Contrasinal
     access: Acceder
-    remember_me: Recordar mis datos
-    conditions: Accede con tus credenciales de usuario y contraseña
+    remember_me: Recordar meus datos
+    conditions: Accede coas túas credenciais de usuario e contrasinal
     
