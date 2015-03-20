@@ -145,93 +145,93 @@ candidacy:
         days: Días
         explanation: Introduce el número de días naturales que permanecerá activa la votación de candidatos desde el inicio de la votación (se recomiendan al menos 14 días, mínimo dos días).
         init_vote_explanation: Haz clic en el siguiente botón para iniciar la votación
-        warning_explanation: ATENCIÓN !! Una vez iniciada la votación ya NO SE PODRÁN AÑADIR más candidatos o candidatas. Se proporcionará un enlace que habilitará el registro a los votantes y emitir el voto.
+        warning_explanation: ATENCIÓN!! Unha vez iniciada a votación xa non SE PODERÁN ENGADIR máis candidatos ou candidatas. Proporcionarase un enlace que habilitará o rexistro aos votantes e emitir o voto.
         start_candidacy: Iniciar votación
-        public_link: Este es el enlace a la votación que puedes hacer público
-        no_finished_candidacy: Aún no puede iniciarse la votación ya que la fecha de finalización de las candidaturas no ha terminado. 
-        sent_mail: Te hemos enviado una copia de este enlace a tu email
+        public_link: Este é o enlace á votación que podes facer público
+        no_finished_candidacy: Aínda non pode iniciarse a votación xa que a data de finalización das candidaturas non rematou.
+        sent_mail: Enviámosche unha copia deste enlace ao teu email
                                 
     step8:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Verificación del voto y resultados
+        html_title: Municipaís 2015 - Alta da candidatura cidadá
+        h1_title: Verificación do voto e resultados
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         
     step9:
-        html_title: Municipales 2015 - Alta de candidatura ciudadana
-        h1_title: Presentación de las listas electas       
+        html_title: Municipaís 2015 - Alta da candidatura cidadá
+        h1_title: Presentación das listas electas      
         continue: Iniciar votación
-        result: Resultados de la votación
+        result: Resultados da votación
          
 town:
-    html_title: Municipales 2015 - Vota en la candidatura ciudadana
-    h1_title: Registrate como votante
-    verify_msg: Confirma el registro y las condiciones enviando un SMS con la palabra ACEPTO al número nº %sms_inbound_number% que proporcionaste en el paso anterior, después haz clic en CONTINUAR
-    verify_extra: El coste del mensaje es de unos 10 céntimos de euro (o gratis, depende del coste de tu operadora) no es un sms premium y listabierta.org no cobra por este servicio.
+    html_title: Municipaíss 2015 - Vota na candidatura cidadá
+    h1_title: Rexistrate coma votante
+    verify_msg: Confirma o rexistro e as condicións enviando un SMS coa palabra ACEPTO ao número n.º %sms_inbound_number% que proporcionaches no paso anterior, despois fai clic en CONTINUAR
+    verify_extra: O custo da mensaxe é duns 10 céntimos de euro (ou gratis, depende do custo da túa operadora) non é un sms premium e listabierta.org non cobra por este servizo.
        
     step1:
-        welcome: Bienvenido o bienvenida a la votación de la candidatura ciudadana de
-        welcome_more: Como primer paso has de registrarte como votante. <br />Si introduces datos erróneos, no podrás modificarlos más adelante
-        header: Registrate como votante
-        name: Nombre 
-        lastname: Apellidos
+        welcome: Benvido ou benvida á votación da candidatura cidadá de
+        welcome_more: Como primeiro paso has de rexistrarte como votante. <Br />Si introduces datos erróneos, non poderás modificalos máis adiante
+        header: Regxistrate coma votante
+        name: Nome 
+        lastname: Apelidos
         dni: DNI
         email: Email
         username: Usuario
-        password: Contraseña
+        password: Contrasinal
         phone: Número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
-        explanation_dni: ¿Por que necesitamos tu DNI y tu número de móvil? Para evitar el spam y el registro múltiple de candidaturas. Para poder continuar con el registro necesitamos que proporciones ambos datos de forma correcta.
+        explanation_dni: Por que necesitamos o teu DNI e o teu número de móbil? Para evitar o spam e o rexistro múltiple de candidaturas. Para poder continuar co rexistro necesitamos que proporcións ambos os dous datos de forma correcta.
         explanation: Explicación
-        warning_text: <b>Atención</b>: es imprescindible que introduzcas los datos de registro de forma correcta, incluyendo tu número de móvil, un error en los datos de registro implica que no podrás votar
+        warning_text: <b>Atención</b>: é imprescindible que introduzas os datos de rexistro de forma correcta, incluíndo o teu número de móbil, un erro nos datos de rexistro implica que non poderás votar
     
     step_verify:
-        html_title: Municipales 2015 - Registrate como votante
-        h1_title: Verifica tu número de móvil
+        html_title: Municipaís 2015 - Rexistrate coma votante
+        h1_title: Verifica o teu número de móvil
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        verify_conditions_header: Requisitos para el voto: 
-        verify_conditions_op1: Apoyas esta candidatura ciudadana de listas abiertas y estás conforme con este proceso de registro.
-        verify_conditions_op2: Estás dando tu consentimiento expreso al tratamiento tus los datos personales según lo dispuesto en el artículo 5 y 6 de la LOPD y podremos contactarte en tu email con información estrictamente relacionada con el proceso de votación, nunca cederemos tus datos de registro a terceros.
-        verify_conditions_op3: La información que aportas durante este registro es cierta y  tu residencia habitual se encuentra en el municipio objeto de la votación
+        verify_conditions_header: Requisitos para o voto: 
+        verify_conditions_op1: Apoias esta candidatura cidadá de listas abertas e estás conforme con este proceso de rexistro.
+        verify_conditions_op2: Estás a dar o teu consentimento expreso ao tratamento os teus os datos persoais segundo o disposto no artigo 5 e 6 da LOPD e poderemos contactarte no teu email con información estritamente relacionada co proceso de votación, nunca cederemos os teus datos de rexistro a terceiros.
+        verify_conditions_op3: A información que achegas durante este rexistro é certa e a túa residencia habitual encóntrase no municipio obxecto da votación
     
     step2:
         header: Filtra candidatos
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 2
-        filter_title: ¿Qué criterios deseas utilizar para seleccionar a los candidatos y candidatas?
-        filter_p1: Ten en cuenta que si no aplicas ningún filtro, te aparecerá la totalidad de candidatos y candidatas que se han presentado y puede resultar tedioso ver todos los perfiles y después puntuarlos, así que si tienes alguna preferencia clara márcala, posteriormente podrás revisar tus filtros.
+        html_title: Municipaís 2015 - Vota na candidatura cidadá - Paso 2
+        filter_title: Que criterios desexas utilizar para seleccionar os candidatos e candidatas?
+        filter_p1: Ten en conta que se non aplicas ningún filtro, te aparecerá a totalidade de candidatos e candidatas que se presentaron e pode resultar tedioso ver todos os perfís e despois puntualos, así que se tes algunha preferencia clara márcaa, posteriormente poderás revisar os teus filtros.
         h1_title: Filtra candidatos por nivel academico
-        academic_level: ¿Quieres elegir el nivel académico que prefieres que tenga el candidato o candidata?
-        languages: "¿Es bueno que hable alguno de estos idiomas?"
+        academic_level: Queres elixir o nivel académico que prefires que teña o candidato ou candidata?
+        languages: " É bo que fale algún destes idiomas? "
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
         
     step3:
-        header: Seleciona experiencia laboral
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 3
-        h1_title: Seleciona experiencia laboral
+        header: Selecciona experiencia laboral
+        html_title: Municipaís 2015 - Vota na candidatura cidadá - Paso 3
+        h1_title: Selecciona experiencia laboral
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        job_experience_title: ¿Qué campo de experiencia laboral te gustaría que hubiese desarrollado?
+        job_experience_title: Que campo de experiencia laboral che gustaría que tivese desenvolvido?
         
     step4:
-        header: Selecciona actividades municipales
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 4
-        h1_title: Selecciona actividades municipales
+        header: Selecciona actividades municipaís
+        html_title: Municipaís 2015 - Vota na candidatura cidadá - Paso 4
+        h1_title: Selecciona actividades municipaís
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        town_activities_title: ¿Qué experiencia relacionada con el desempeño municipal te gustaría que hubiese desarrollado?
+        town_activities_title: Que experiencia relacionada co desempeño municipal che gustaría que tivese desenvolvido?
      
     step5:
-        header: Selecciona prioridades municipales
-        html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 5
-        h1_title: Selecciona prioridades municipales
+        header: Selecciona prioridades municipais
+        html_title: Municipais 2015 - Vota na candidatura cidadá - Paso 5
+        h1_title: Selecciona prioridades municipais
         continue: Continuar <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
         previous: Anterior
-        govern_priorities_title: ¿En qué actividades crees que debería centrarse con prioridad el gobierno municipal ?
-        public_values_title: ¿Qué valores morales consideras de mayor importancia para el desempeño de la función pública?
+        govern_priorities_title: En que actividades cres que debería centrarse con prioridade o goberno municipal ?
+        public_values_title: Que valores morais consideras de maior importancia para o desempeño da función pública?
         
     step6:
-        header: Asigna importancia
+        header: Que valores morais consideras de maior importancia para o desempeño da función pública?
         html_title: Municipales 2015 - Vota en la candidatura ciudadana - Paso 6
         h1_title: Asigna importancia
         continue: Ver candidatos seleccionados <i class="mine-icon fa fa-arrow-right icon-on-right"></i>
